@@ -1,2 +1,0 @@
-# vuepressBlog
-vuepressBlog
