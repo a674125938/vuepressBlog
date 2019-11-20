@@ -23,7 +23,7 @@ module.exports = {
                 ]
             },
             { text: '功能演示', link: '/pages/folder1/test3.md' },
-            { text: 'Github', link: 'https://github.com/dwanda' },
+            { text: 'Github', link: 'https://github.com/a674125938' },
         ],
         sidebar: {
             '/pages/folder1/':[
